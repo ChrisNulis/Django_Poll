@@ -1,0 +1,8 @@
+li a {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background: white url("images/Grumpy.gif") no-repeat;
+}
